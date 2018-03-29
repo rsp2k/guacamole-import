@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Infomation about Guacamole Schema: https://guacamole.apache.org/doc/gug/jdbc-auth.html#jdbc-auth-schema-connections
+
 import os, sys, getopt, random
 
 import hashlib
